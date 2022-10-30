@@ -16,6 +16,8 @@
     "url": "https://github.com/edkotkas/codewars/issues"
   },
   "homepage": "https://github.com/edkotkas/codewars#readme",
-  "dependencies": {
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0"
   }
 }
